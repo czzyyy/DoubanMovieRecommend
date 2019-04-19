@@ -16,4 +16,19 @@ recommend.py：利用embedding特征计算电影和用户相似性，并给出�
 ![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/myplot_movie.png)
 ## user
 ![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/myplot_user.png)
+# plot data
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_ratings_y_count.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_vote_num_y_ratings.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_date_y_ratings.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_area_y_ratings.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_movie_type_y_ratings.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_language_y_ratings.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_runtime_y_ratings.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_title_y_vote_num_topall.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_title_y_vote_num_top2019.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_title_y_vote_num_top2018.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_director_y_vote_num_top.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_screenwriter_y_vote_num_top.png)
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/x_actor_y_vote_num_top.png)
 ### 本次实验也是本人对推荐相关问题的首次尝试，效果不尽如人意，以后还会多多学习。
+[回到顶部](#readme)
