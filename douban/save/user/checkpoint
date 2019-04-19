@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ziyangcheng/python_code/SPECIFICexercise/RecommendationSys/douban/my_data/save/movie_user/movie_user.ckpt"
+all_model_checkpoint_paths: "/home/ziyangcheng/python_code/SPECIFICexercise/RecommendationSys/douban/my_data/save/movie_user/movie_user.ckpt"
