@@ -6,4 +6,9 @@ data_util.py：对爬取到的数据进行清洗，并简单提取用于训练�
 visual.py：对清洗之后的数据进行简单的可视化。
 models.py：建立神经网络模型，分为电影模型和用户模型，利用回归问题训练得到电影和用户的embedding特征。
 recommend.py：利用embedding特征计算电影和用户相似性，并给出简单的推荐策略。
+# train loss
+## movie
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/train_movie.png)
+## user
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/train_user.png)
 ### 本次实验也是本人对推荐相关问题的首次尝试，效果不尽如人意，以后还会多多学习。
