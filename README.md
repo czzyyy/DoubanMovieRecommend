@@ -11,4 +11,9 @@ recommend.py：利用embedding特征计算电影和用户相似性，并给出�
 ![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/train_movie.png)
 ## user
 ![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/train_user.png)
+# plot embedding
+## movie
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/myplot_movie.png)
+## user
+![image](https://github.com/czzyyy/DoubanMovieRecommend/blob/master/douban/images/myplot_user.png)
 ### 本次实验也是本人对推荐相关问题的首次尝试，效果不尽如人意，以后还会多多学习。
